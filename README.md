@@ -58,3 +58,12 @@ sudo systemctl daemon-reload
 sudo systemctl restart okp4d
 journalctl -u okp4d -f -o cat
 ```
+_Optional:_ use our State Sync guide to make your node sync faster: https://stakeangle.com/state-sync/okp4
+
+**Other useful services:**
+
+RPC: https://okp4-rpc.stakeangle.com/
+
+gRPC: http://okp4-rpc.stakeangle.com:9090/
+
+API: http://okp4-rpc.stakeangle.com:1317/
