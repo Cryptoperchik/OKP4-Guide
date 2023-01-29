@@ -62,7 +62,7 @@ _Optional:_ use our State Sync guide to make your node sync faster: https://stak
 
 **Other useful services:**
 
-RPC: https://okp4-rpc.stakeangle.com:26657/
+RPC: https://okp4-rpc.stakeangle.com/
 
 gRPC: http://okp4-rpc.stakeangle.com:19090/
 
